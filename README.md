@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ermijeremy/myLeetcode/tree/master/0007-reverse-integer) |
+| [2556-convert-the-temperature](https://github.com/ermijeremy/myLeetcode/tree/master/2556-convert-the-temperature) |
 ## Array
 |  |
 | ------- |
