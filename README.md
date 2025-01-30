@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ermijeremy/myLeetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ermijeremy/myLeetcode/tree/master/0009-palindrome-number) |
+| [2491-smallest-even-multiple](https://github.com/ermijeremy/myLeetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/ermijeremy/myLeetcode/tree/master/2556-convert-the-temperature) |
 ## Array
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ermijeremy/myLeetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/ermijeremy/myLeetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
