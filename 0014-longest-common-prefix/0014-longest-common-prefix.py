@@ -9,7 +9,6 @@ class Solution:
             temp = strs[0][0:j]
             for n in range(1,len(strs)):
                 if temp != strs[n][0:j]:
-                    print("hi")
                     return result
             result = temp
             j+=1
