@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/ermijeremy/myLeetcode/tree/master/2491-smallest-even-multiple) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ermijeremy/myLeetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ermijeremy/myLeetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
