@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/ermijeremy/myLeetcode/tree/master/1642-water-bottles) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ermijeremy/myLeetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2491-smallest-even-multiple](https://github.com/ermijeremy/myLeetcode/tree/master/2491-smallest-even-multiple) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/ermijeremy/myLeetcode/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/ermijeremy/myLeetcode/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ermijeremy/myLeetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2058-concatenation-of-array](https://github.com/ermijeremy/myLeetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ermijeremy/myLeetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3651-transformed-array](https://github.com/ermijeremy/myLeetcode/tree/master/3651-transformed-array) |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ermijeremy/myLeetcode/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+## Counting
+|  |
+| ------- |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
