@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ermijeremy/myLeetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ermijeremy/myLeetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ermijeremy/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ermijeremy/myLeetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/ermijeremy/myLeetcode/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/ermijeremy/myLeetcode/tree/master/1642-water-bottles) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ermijeremy/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ermijeremy/myLeetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ermijeremy/myLeetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ermijeremy/myLeetcode/tree/master/0125-valid-palindrome) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ermijeremy/myLeetcode/tree/master/0013-roman-to-integer) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
 |  |
