@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ermijeremy/myLeetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ermijeremy/myLeetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/ermijeremy/myLeetcode/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/ermijeremy/myLeetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ermijeremy/myLeetcode/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/ermijeremy/myLeetcode/tree/master/0812-rotate-string) |
 | [1797-goal-parser-interpretation](https://github.com/ermijeremy/myLeetcode/tree/master/1797-goal-parser-interpretation) |
@@ -91,9 +92,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ermijeremy/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/ermijeremy/myLeetcode/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/ermijeremy/myLeetcode/tree/master/0389-find-the-difference) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
 |  |
 | ------- |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/ermijeremy/myLeetcode/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/ermijeremy/myLeetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
