@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ermijeremy/myLeetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ermijeremy/myLeetcode/tree/master/0268-missing-number) |
 | [0609-find-duplicate-file-in-system](https://github.com/ermijeremy/myLeetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0978-valid-mountain-array](https://github.com/ermijeremy/myLeetcode/tree/master/0978-valid-mountain-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ermijeremy/myLeetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1449-print-words-vertically](https://github.com/ermijeremy/myLeetcode/tree/master/1449-print-words-vertically) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ermijeremy/myLeetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
