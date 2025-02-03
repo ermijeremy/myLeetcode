@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ermijeremy/myLeetcode/tree/master/0412-fizz-buzz) |
 | [0609-find-duplicate-file-in-system](https://github.com/ermijeremy/myLeetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0812-rotate-string](https://github.com/ermijeremy/myLeetcode/tree/master/0812-rotate-string) |
+| [0858-masking-personal-information](https://github.com/ermijeremy/myLeetcode/tree/master/0858-masking-personal-information) |
 | [1797-goal-parser-interpretation](https://github.com/ermijeremy/myLeetcode/tree/master/1797-goal-parser-interpretation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ermijeremy/myLeetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
