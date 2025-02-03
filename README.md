@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ermijeremy/myLeetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ermijeremy/myLeetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ermijeremy/myLeetcode/tree/master/0268-missing-number) |
 | [0609-find-duplicate-file-in-system](https://github.com/ermijeremy/myLeetcode/tree/master/0609-find-duplicate-file-in-system) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ermijeremy/myLeetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ermijeremy/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/ermijeremy/myLeetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ermijeremy/myLeetcode/tree/master/0242-valid-anagram) |
