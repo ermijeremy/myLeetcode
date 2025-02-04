@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ermijeremy/myLeetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ermijeremy/myLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0609-find-duplicate-file-in-system](https://github.com/ermijeremy/myLeetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0829-subdomain-visit-count](https://github.com/ermijeremy/myLeetcode/tree/master/0829-subdomain-visit-count) |
 | [0978-valid-mountain-array](https://github.com/ermijeremy/myLeetcode/tree/master/0978-valid-mountain-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ermijeremy/myLeetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1449-print-words-vertically](https://github.com/ermijeremy/myLeetcode/tree/master/1449-print-words-vertically) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ermijeremy/myLeetcode/tree/master/0412-fizz-buzz) |
 | [0609-find-duplicate-file-in-system](https://github.com/ermijeremy/myLeetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0812-rotate-string](https://github.com/ermijeremy/myLeetcode/tree/master/0812-rotate-string) |
+| [0829-subdomain-visit-count](https://github.com/ermijeremy/myLeetcode/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/ermijeremy/myLeetcode/tree/master/0858-masking-personal-information) |
 | [1449-print-words-vertically](https://github.com/ermijeremy/myLeetcode/tree/master/1449-print-words-vertically) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ermijeremy/myLeetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ermijeremy/myLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ermijeremy/myLeetcode/tree/master/0389-find-the-difference) |
 | [0609-find-duplicate-file-in-system](https://github.com/ermijeremy/myLeetcode/tree/master/0609-find-duplicate-file-in-system) |
+| [0829-subdomain-visit-count](https://github.com/ermijeremy/myLeetcode/tree/master/0829-subdomain-visit-count) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ermijeremy/myLeetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ermijeremy/myLeetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/ermijeremy/myLeetcode/tree/master/1635-number-of-good-pairs) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ermijeremy/myLeetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ermijeremy/myLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ermijeremy/myLeetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0829-subdomain-visit-count](https://github.com/ermijeremy/myLeetcode/tree/master/0829-subdomain-visit-count) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ermijeremy/myLeetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ermijeremy/myLeetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/ermijeremy/myLeetcode/tree/master/1635-number-of-good-pairs) |
