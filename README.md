@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/ermijeremy/myLeetcode/tree/master/1449-print-words-vertically) |
 | [1635-number-of-good-pairs](https://github.com/ermijeremy/myLeetcode/tree/master/1635-number-of-good-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ermijeremy/myLeetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2048-build-array-from-permutation](https://github.com/ermijeremy/myLeetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ermijeremy/myLeetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ermijeremy/myLeetcode/tree/master/0412-fizz-buzz) |
 | [1449-print-words-vertically](https://github.com/ermijeremy/myLeetcode/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/ermijeremy/myLeetcode/tree/master/1642-water-bottles) |
+| [2048-build-array-from-permutation](https://github.com/ermijeremy/myLeetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ermijeremy/myLeetcode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ermijeremy/myLeetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
