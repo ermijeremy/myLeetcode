@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ermijeremy/myLeetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ermijeremy/myLeetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ermijeremy/myLeetcode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ermijeremy/myLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0609-find-duplicate-file-in-system](https://github.com/ermijeremy/myLeetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0722-remove-comments](https://github.com/ermijeremy/myLeetcode/tree/master/0722-remove-comments) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ermijeremy/myLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ermijeremy/myLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ermijeremy/myLeetcode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0609-find-duplicate-file-in-system](https://github.com/ermijeremy/myLeetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0829-subdomain-visit-count](https://github.com/ermijeremy/myLeetcode/tree/master/0829-subdomain-visit-count) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ermijeremy/myLeetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
