@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/ermijeremy/myLeetcode/tree/master/0829-subdomain-visit-count) |
 | [0898-transpose-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/ermijeremy/myLeetcode/tree/master/0978-valid-mountain-array) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/ermijeremy/myLeetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ermijeremy/myLeetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ermijeremy/myLeetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/ermijeremy/myLeetcode/tree/master/1364-tuple-with-same-product) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/ermijeremy/myLeetcode/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0898-transpose-matrix) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/ermijeremy/myLeetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1449-print-words-vertically](https://github.com/ermijeremy/myLeetcode/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/ermijeremy/myLeetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/ermijeremy/myLeetcode/tree/master/2048-build-array-from-permutation) |
