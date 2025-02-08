@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ermijeremy/myLeetcode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/ermijeremy/myLeetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ermijeremy/myLeetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ermijeremy/myLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/ermijeremy/myLeetcode/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/ermijeremy/myLeetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/ermijeremy/myLeetcode/tree/master/1642-water-bottles) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ermijeremy/myLeetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ermijeremy/myLeetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ermijeremy/myLeetcode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ermijeremy/myLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ermijeremy/myLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/ermijeremy/myLeetcode/tree/master/0500-keyboard-row) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ermijeremy/myLeetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ermijeremy/myLeetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ermijeremy/myLeetcode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ermijeremy/myLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/ermijeremy/myLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ermijeremy/myLeetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -256,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ermijeremy/myLeetcode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ermijeremy/myLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ermijeremy/myLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
