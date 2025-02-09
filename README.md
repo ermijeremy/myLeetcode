@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ermijeremy/myLeetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/ermijeremy/myLeetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ermijeremy/myLeetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ermijeremy/myLeetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ermijeremy/myLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ermijeremy/myLeetcode/tree/master/0169-majority-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ermijeremy/myLeetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ermijeremy/myLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/ermijeremy/myLeetcode/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0777-toeplitz-matrix) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/ermijeremy/myLeetcode/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/ermijeremy/myLeetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
