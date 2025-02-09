@@ -1,7 +1,7 @@
 class Solution:
     def findDiagonalOrder(self, mat: List[List[int]]) -> List[int]:
         ans = []
-        # initialize 4 pointers
+        
         row = len(mat)
         col = len(mat[0])
 
