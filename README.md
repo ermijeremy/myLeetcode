@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ermijeremy/myLeetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ermijeremy/myLeetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/ermijeremy/myLeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ermijeremy/myLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ermijeremy/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ermijeremy/myLeetcode/tree/master/0229-majority-element-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ermijeremy/myLeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/ermijeremy/myLeetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ermijeremy/myLeetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ermijeremy/myLeetcode/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/ermijeremy/myLeetcode/tree/master/0861-flipping-an-image) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ermijeremy/myLeetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/ermijeremy/myLeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ermijeremy/myLeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ermijeremy/myLeetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ermijeremy/myLeetcode/tree/master/0229-majority-element-ii) |
