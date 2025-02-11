@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/ermijeremy/myLeetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ermijeremy/myLeetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ermijeremy/myLeetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ermijeremy/myLeetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ermijeremy/myLeetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ermijeremy/myLeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ermijeremy/myLeetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ermijeremy/myLeetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ermijeremy/myLeetcode/tree/master/0268-missing-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ermijeremy/myLeetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Queue
 |  |
 | ------- |
