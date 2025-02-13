@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ermijeremy/myLeetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ermijeremy/myLeetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ermijeremy/myLeetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ermijeremy/myLeetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3651-transformed-array](https://github.com/ermijeremy/myLeetcode/tree/master/3651-transformed-array) |
 ## Depth-First Search
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/ermijeremy/myLeetcode/tree/master/2645-pass-the-pillow) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ermijeremy/myLeetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3651-transformed-array](https://github.com/ermijeremy/myLeetcode/tree/master/3651-transformed-array) |
 ## String Matching
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ermijeremy/myLeetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ermijeremy/myLeetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ermijeremy/myLeetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
