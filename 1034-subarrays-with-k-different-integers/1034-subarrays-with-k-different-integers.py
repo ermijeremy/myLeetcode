@@ -2,7 +2,7 @@ class Solution:
     def subarraysWithKDistinct(self, nums: List[int], k: int) -> int:
         ans1 = 0
         left = 0
-        window = Counter()
+        window = defaultdict(int)
         n = len(nums)
 
         # getting the number of substrings which have at most k distnict elements
@@ -20,7 +20,7 @@ class Solution:
 
         ans2 = 0
         left1 = 0
-        window1 = Counter()
+        window1 = defaultdict(int)
         n1 = len(nums)
 
         # getting the number of substrings which have at most k-1 distinct elements
