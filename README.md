@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2556-convert-the-temperature](https://github.com/ermijeremy/myLeetcode/tree/master/2556-convert-the-temperature) |
 | [2645-pass-the-pillow](https://github.com/ermijeremy/myLeetcode/tree/master/2645-pass-the-pillow) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ermijeremy/myLeetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ermijeremy/myLeetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ermijeremy/myLeetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
@@ -412,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ermijeremy/myLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ermijeremy/myLeetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
