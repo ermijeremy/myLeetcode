@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ermijeremy/myLeetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ermijeremy/myLeetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/ermijeremy/myLeetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Trie
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/ermijeremy/myLeetcode/tree/master/0861-flipping-an-image) |
 | [1009-pancake-sorting](https://github.com/ermijeremy/myLeetcode/tree/master/1009-pancake-sorting) |
 | [2551-apply-operations-to-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3195-separate-black-and-white-balls](https://github.com/ermijeremy/myLeetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ermijeremy/myLeetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1961-maximum-ice-cream-bars](https://github.com/ermijeremy/myLeetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ermijeremy/myLeetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3195-separate-black-and-white-balls](https://github.com/ermijeremy/myLeetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
 |  |
 | ------- |
