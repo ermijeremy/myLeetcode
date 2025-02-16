@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ermijeremy/myLeetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ermijeremy/myLeetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/ermijeremy/myLeetcode/tree/master/1791-richest-customer-wealth) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ermijeremy/myLeetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1961-maximum-ice-cream-bars](https://github.com/ermijeremy/myLeetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ermijeremy/myLeetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ermijeremy/myLeetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ermijeremy/myLeetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ermijeremy/myLeetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Line Sweep
 |  |
