@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1028-interval-list-intersections](https://github.com/ermijeremy/myLeetcode/tree/master/1028-interval-list-intersections) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ermijeremy/myLeetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ermijeremy/myLeetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1206-corporate-flight-bookings](https://github.com/ermijeremy/myLeetcode/tree/master/1206-corporate-flight-bookings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ermijeremy/myLeetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/ermijeremy/myLeetcode/tree/master/1364-tuple-with-same-product) |
 | [1449-print-words-vertically](https://github.com/ermijeremy/myLeetcode/tree/master/1449-print-words-vertically) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ermijeremy/myLeetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/ermijeremy/myLeetcode/tree/master/0724-find-pivot-index) |
+| [1206-corporate-flight-bookings](https://github.com/ermijeremy/myLeetcode/tree/master/1206-corporate-flight-bookings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ermijeremy/myLeetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/ermijeremy/myLeetcode/tree/master/1603-running-sum-of-1d-array) |
