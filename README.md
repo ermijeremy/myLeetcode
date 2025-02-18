@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ermijeremy/myLeetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ermijeremy/myLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/ermijeremy/myLeetcode/tree/master/0412-fizz-buzz) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ermijeremy/myLeetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/0633-sum-of-square-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/ermijeremy/myLeetcode/tree/master/1635-number-of-good-pairs) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ermijeremy/myLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ermijeremy/myLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ermijeremy/myLeetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/ermijeremy/myLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/ermijeremy/myLeetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/ermijeremy/myLeetcode/tree/master/0500-keyboard-row) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ermijeremy/myLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ermijeremy/myLeetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ermijeremy/myLeetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ermijeremy/myLeetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0948-sort-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/0948-sort-an-array) |
 | [1009-pancake-sorting](https://github.com/ermijeremy/myLeetcode/tree/master/1009-pancake-sorting) |
 | [1184-car-pooling](https://github.com/ermijeremy/myLeetcode/tree/master/1184-car-pooling) |
