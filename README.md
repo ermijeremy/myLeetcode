@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/ermijeremy/myLeetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/ermijeremy/myLeetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/ermijeremy/myLeetcode/tree/master/0978-valid-mountain-array) |
 | [1009-pancake-sorting](https://github.com/ermijeremy/myLeetcode/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ermijeremy/myLeetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ermijeremy/myLeetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/ermijeremy/myLeetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0829-subdomain-visit-count](https://github.com/ermijeremy/myLeetcode/tree/master/0829-subdomain-visit-count) |
+| [0966-binary-subarrays-with-sum](https://github.com/ermijeremy/myLeetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ermijeremy/myLeetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ermijeremy/myLeetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ermijeremy/myLeetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ermijeremy/myLeetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ermijeremy/myLeetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/ermijeremy/myLeetcode/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/ermijeremy/myLeetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ermijeremy/myLeetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/ermijeremy/myLeetcode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/ermijeremy/myLeetcode/tree/master/1206-corporate-flight-bookings) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ermijeremy/myLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ermijeremy/myLeetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ermijeremy/myLeetcode/tree/master/0567-permutation-in-string) |
+| [0966-binary-subarrays-with-sum](https://github.com/ermijeremy/myLeetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ermijeremy/myLeetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ermijeremy/myLeetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Data Stream
