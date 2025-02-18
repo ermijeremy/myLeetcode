@@ -1,7 +1,6 @@
 class Solution:
     def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
-        for i in range(1,len(nums)):
-            nums[i] += nums[i-1]
+        nums = list(itertools.accumulate(nums))
         di = defaultdict(int)
         di[0] = 1
         ans = 0
