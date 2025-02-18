@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/ermijeremy/myLeetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/ermijeremy/myLeetcode/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ermijeremy/myLeetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ermijeremy/myLeetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ermijeremy/myLeetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ermijeremy/myLeetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/ermijeremy/myLeetcode/tree/master/1791-richest-customer-wealth) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ermijeremy/myLeetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ermijeremy/myLeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ermijeremy/myLeetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ermijeremy/myLeetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/ermijeremy/myLeetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ermijeremy/myLeetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ermijeremy/myLeetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ermijeremy/myLeetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/ermijeremy/myLeetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ermijeremy/myLeetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ermijeremy/myLeetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Binary Search
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ermijeremy/myLeetcode/tree/master/0179-largest-number) |
 | [1009-pancake-sorting](https://github.com/ermijeremy/myLeetcode/tree/master/1009-pancake-sorting) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ermijeremy/myLeetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ermijeremy/myLeetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/ermijeremy/myLeetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ermijeremy/myLeetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3195-separate-black-and-white-balls](https://github.com/ermijeremy/myLeetcode/tree/master/3195-separate-black-and-white-balls) |
