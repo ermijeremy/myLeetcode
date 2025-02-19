@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/ermijeremy/myLeetcode/tree/master/1160-letter-tile-possibilities) |
 | [1449-print-words-vertically](https://github.com/ermijeremy/myLeetcode/tree/master/1449-print-words-vertically) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ermijeremy/myLeetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ermijeremy/myLeetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1651-shuffle-string](https://github.com/ermijeremy/myLeetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ermijeremy/myLeetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ermijeremy/myLeetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/ermijeremy/myLeetcode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ermijeremy/myLeetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ermijeremy/myLeetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ermijeremy/myLeetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Line Sweep
