@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ermijeremy/myLeetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/ermijeremy/myLeetcode/tree/master/0812-rotate-string) |
 | [0829-subdomain-visit-count](https://github.com/ermijeremy/myLeetcode/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/ermijeremy/myLeetcode/tree/master/0858-masking-personal-information) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ermijeremy/myLeetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/ermijeremy/myLeetcode/tree/master/1160-letter-tile-possibilities) |
 | [1449-print-words-vertically](https://github.com/ermijeremy/myLeetcode/tree/master/1449-print-words-vertically) |
@@ -520,4 +522,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ermijeremy/myLeetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
