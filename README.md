@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/ermijeremy/myLeetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ermijeremy/myLeetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2465-shifting-letters-ii](https://github.com/ermijeremy/myLeetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ermijeremy/myLeetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ermijeremy/myLeetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/ermijeremy/myLeetcode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2465-shifting-letters-ii](https://github.com/ermijeremy/myLeetcode/tree/master/2465-shifting-letters-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/ermijeremy/myLeetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Trie
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ermijeremy/myLeetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ermijeremy/myLeetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ermijeremy/myLeetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2465-shifting-letters-ii](https://github.com/ermijeremy/myLeetcode/tree/master/2465-shifting-letters-ii) |
 ## Binary Search
 |  |
 | ------- |
