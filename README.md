@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ermijeremy/myLeetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ermijeremy/myLeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ermijeremy/myLeetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ermijeremy/myLeetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ermijeremy/myLeetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ermijeremy/myLeetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ermijeremy/myLeetcode/tree/master/0217-contains-duplicate) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ermijeremy/myLeetcode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/ermijeremy/myLeetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ermijeremy/myLeetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ermijeremy/myLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ermijeremy/myLeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ermijeremy/myLeetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ermijeremy/myLeetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/ermijeremy/myLeetcode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/ermijeremy/myLeetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0234-palindrome-linked-list) |
@@ -554,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ermijeremy/myLeetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
