@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ermijeremy/myLeetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/ermijeremy/myLeetcode/tree/master/1791-richest-customer-wealth) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ermijeremy/myLeetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ermijeremy/myLeetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1961-maximum-ice-cream-bars](https://github.com/ermijeremy/myLeetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ermijeremy/myLeetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ermijeremy/myLeetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ermijeremy/myLeetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ermijeremy/myLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ermijeremy/myLeetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ermijeremy/myLeetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Backtracking
 |  |
 | ------- |
