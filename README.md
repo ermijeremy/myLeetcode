@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/ermijeremy/myLeetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ermijeremy/myLeetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ermijeremy/myLeetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2551-apply-operations-to-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ermijeremy/myLeetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ermijeremy/myLeetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ermijeremy/myLeetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ermijeremy/myLeetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ermijeremy/myLeetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ermijeremy/myLeetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ermijeremy/myLeetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ermijeremy/myLeetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Prefix Sum
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1783-ways-to-make-a-fair-array](https://github.com/ermijeremy/myLeetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ermijeremy/myLeetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2465-shifting-letters-ii](https://github.com/ermijeremy/myLeetcode/tree/master/2465-shifting-letters-ii) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ermijeremy/myLeetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ermijeremy/myLeetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/0633-sum-of-square-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ermijeremy/myLeetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ermijeremy/myLeetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Queue
 |  |
 | ------- |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ermijeremy/myLeetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/ermijeremy/myLeetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ermijeremy/myLeetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/ermijeremy/myLeetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [3195-separate-black-and-white-balls](https://github.com/ermijeremy/myLeetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
 |  |
