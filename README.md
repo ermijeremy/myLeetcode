@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ermijeremy/myLeetcode/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ermijeremy/myLeetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/0633-sum-of-square-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/ermijeremy/myLeetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ermijeremy/myLeetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ermijeremy/myLeetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/ermijeremy/myLeetcode/tree/master/0978-valid-mountain-array) |
 | [1009-pancake-sorting](https://github.com/ermijeremy/myLeetcode/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ermijeremy/myLeetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/ermijeremy/myLeetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/ermijeremy/myLeetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/ermijeremy/myLeetcode/tree/master/1028-interval-list-intersections) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ermijeremy/myLeetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/ermijeremy/myLeetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/0948-sort-an-array) |
 | [1009-pancake-sorting](https://github.com/ermijeremy/myLeetcode/tree/master/1009-pancake-sorting) |
+| [1018-largest-perimeter-triangle](https://github.com/ermijeremy/myLeetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/ermijeremy/myLeetcode/tree/master/1184-car-pooling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ermijeremy/myLeetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ermijeremy/myLeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/ermijeremy/myLeetcode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/ermijeremy/myLeetcode/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/ermijeremy/myLeetcode/tree/master/1009-pancake-sorting) |
+| [1018-largest-perimeter-triangle](https://github.com/ermijeremy/myLeetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/ermijeremy/myLeetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ermijeremy/myLeetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1961-maximum-ice-cream-bars](https://github.com/ermijeremy/myLeetcode/tree/master/1961-maximum-ice-cream-bars) |
