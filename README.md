@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0777-toeplitz-matrix) |
 | [0829-subdomain-visit-count](https://github.com/ermijeremy/myLeetcode/tree/master/0829-subdomain-visit-count) |
 | [0861-flipping-an-image](https://github.com/ermijeremy/myLeetcode/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/ermijeremy/myLeetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/ermijeremy/myLeetcode/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ermijeremy/myLeetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/ermijeremy/myLeetcode/tree/master/0179-largest-number) |
 | [0768-partition-labels](https://github.com/ermijeremy/myLeetcode/tree/master/0768-partition-labels) |
+| [0890-lemonade-change](https://github.com/ermijeremy/myLeetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/ermijeremy/myLeetcode/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/ermijeremy/myLeetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/ermijeremy/myLeetcode/tree/master/1018-largest-perimeter-triangle) |
