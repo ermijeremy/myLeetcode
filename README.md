@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/ermijeremy/myLeetcode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2465-shifting-letters-ii](https://github.com/ermijeremy/myLeetcode/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/ermijeremy/myLeetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/ermijeremy/myLeetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/ermijeremy/myLeetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Trie
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ermijeremy/myLeetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ermijeremy/myLeetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2470-removing-stars-from-a-string](https://github.com/ermijeremy/myLeetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/ermijeremy/myLeetcode/tree/master/2645-pass-the-pillow) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ermijeremy/myLeetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/ermijeremy/myLeetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Merge Sort
 |  |
 | ------- |
