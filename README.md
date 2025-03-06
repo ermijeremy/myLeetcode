@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ermijeremy/myLeetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ermijeremy/myLeetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ermijeremy/myLeetcode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ermijeremy/myLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/ermijeremy/myLeetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ermijeremy/myLeetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/ermijeremy/myLeetcode/tree/master/0263-ugly-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ermijeremy/myLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ermijeremy/myLeetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ermijeremy/myLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ermijeremy/myLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ermijeremy/myLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ermijeremy/myLeetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ermijeremy/myLeetcode/tree/master/0179-largest-number) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ermijeremy/myLeetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ermijeremy/myLeetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/ermijeremy/myLeetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ermijeremy/myLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0234-palindrome-linked-list) |
 | [1720-crawler-log-folder](https://github.com/ermijeremy/myLeetcode/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ermijeremy/myLeetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
