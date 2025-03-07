@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ermijeremy/myLeetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/ermijeremy/myLeetcode/tree/master/0978-valid-mountain-array) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/ermijeremy/myLeetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1009-pancake-sorting](https://github.com/ermijeremy/myLeetcode/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ermijeremy/myLeetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ermijeremy/myLeetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ermijeremy/myLeetcode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/ermijeremy/myLeetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0898-transpose-matrix) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/ermijeremy/myLeetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/ermijeremy/myLeetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1184-car-pooling](https://github.com/ermijeremy/myLeetcode/tree/master/1184-car-pooling) |
 | [1449-print-words-vertically](https://github.com/ermijeremy/myLeetcode/tree/master/1449-print-words-vertically) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ermijeremy/myLeetcode/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/ermijeremy/myLeetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/0948-sort-an-array) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/ermijeremy/myLeetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1009-pancake-sorting](https://github.com/ermijeremy/myLeetcode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/ermijeremy/myLeetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/ermijeremy/myLeetcode/tree/master/1095-two-city-scheduling) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ermijeremy/myLeetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/ermijeremy/myLeetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Divide and Conquer
 |  |
 | ------- |
