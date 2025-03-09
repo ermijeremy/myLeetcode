@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ermijeremy/myLeetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0456-132-pattern](https://github.com/ermijeremy/myLeetcode/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ermijeremy/myLeetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/ermijeremy/myLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ermijeremy/myLeetcode/tree/master/0496-next-greater-element-i) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ermijeremy/myLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ermijeremy/myLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ermijeremy/myLeetcode/tree/master/0268-missing-number) |
+| [0456-132-pattern](https://github.com/ermijeremy/myLeetcode/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/0633-sum-of-square-numbers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ermijeremy/myLeetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ermijeremy/myLeetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ermijeremy/myLeetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ermijeremy/myLeetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/ermijeremy/myLeetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ermijeremy/myLeetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ermijeremy/myLeetcode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/ermijeremy/myLeetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -677,7 +680,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/ermijeremy/myLeetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ermijeremy/myLeetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ermijeremy/myLeetcode/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/ermijeremy/myLeetcode/tree/master/0943-sum-of-subarray-minimums) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ermijeremy/myLeetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
