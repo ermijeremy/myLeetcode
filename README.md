@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ermijeremy/myLeetcode/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ermijeremy/myLeetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/0633-sum-of-square-numbers) |
+| [0797-rabbits-in-forest](https://github.com/ermijeremy/myLeetcode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/ermijeremy/myLeetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/ermijeremy/myLeetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ermijeremy/myLeetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ermijeremy/myLeetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ermijeremy/myLeetcode/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0777-toeplitz-matrix) |
+| [0797-rabbits-in-forest](https://github.com/ermijeremy/myLeetcode/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/ermijeremy/myLeetcode/tree/master/0829-subdomain-visit-count) |
 | [0861-flipping-an-image](https://github.com/ermijeremy/myLeetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/ermijeremy/myLeetcode/tree/master/0890-lemonade-change) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/ermijeremy/myLeetcode/tree/master/0609-find-duplicate-file-in-system) |
 | [0645-set-mismatch](https://github.com/ermijeremy/myLeetcode/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/ermijeremy/myLeetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/ermijeremy/myLeetcode/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/ermijeremy/myLeetcode/tree/master/0829-subdomain-visit-count) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0966-binary-subarrays-with-sum](https://github.com/ermijeremy/myLeetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ermijeremy/myLeetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/ermijeremy/myLeetcode/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/ermijeremy/myLeetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/ermijeremy/myLeetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/ermijeremy/myLeetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/ermijeremy/myLeetcode/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/ermijeremy/myLeetcode/tree/master/1009-pancake-sorting) |
