@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0777-toeplitz-matrix) |
 | [0797-rabbits-in-forest](https://github.com/ermijeremy/myLeetcode/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/ermijeremy/myLeetcode/tree/master/0829-subdomain-visit-count) |
+| [0859-design-circular-deque](https://github.com/ermijeremy/myLeetcode/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/ermijeremy/myLeetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/ermijeremy/myLeetcode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0898-transpose-matrix) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ermijeremy/myLeetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ermijeremy/myLeetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ermijeremy/myLeetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0859-design-circular-deque](https://github.com/ermijeremy/myLeetcode/tree/master/0859-design-circular-deque) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ermijeremy/myLeetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ermijeremy/myLeetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ermijeremy/myLeetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ermijeremy/myLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/ermijeremy/myLeetcode/tree/master/0859-design-circular-deque) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Randomized
 |  |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/ermijeremy/myLeetcode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ermijeremy/myLeetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
