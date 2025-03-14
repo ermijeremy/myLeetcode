@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ermijeremy/myLeetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ermijeremy/myLeetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ermijeremy/myLeetcode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/ermijeremy/myLeetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/ermijeremy/myLeetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/ermijeremy/myLeetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ermijeremy/myLeetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ermijeremy/myLeetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ermijeremy/myLeetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ermijeremy/myLeetcode/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/ermijeremy/myLeetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ermijeremy/myLeetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ermijeremy/myLeetcode/tree/master/0739-daily-temperatures) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ermijeremy/myLeetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ermijeremy/myLeetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ermijeremy/myLeetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ermijeremy/myLeetcode/tree/master/0486-predict-the-winner) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ermijeremy/myLeetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Tree
