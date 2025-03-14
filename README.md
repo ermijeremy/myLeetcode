@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/ermijeremy/myLeetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ermijeremy/myLeetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ermijeremy/myLeetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ermijeremy/myLeetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2551-apply-operations-to-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ermijeremy/myLeetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/ermijeremy/myLeetcode/tree/master/0859-design-circular-deque) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ermijeremy/myLeetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ermijeremy/myLeetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ermijeremy/myLeetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/ermijeremy/myLeetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ermijeremy/myLeetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ermijeremy/myLeetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ermijeremy/myLeetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3483-alternating-groups-ii](https://github.com/ermijeremy/myLeetcode/tree/master/3483-alternating-groups-ii) |
 ## Data Stream
 |  |
@@ -739,4 +742,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ermijeremy/myLeetcode/tree/master/0456-132-pattern) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ermijeremy/myLeetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
