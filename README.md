@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ermijeremy/myLeetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ermijeremy/myLeetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ermijeremy/myLeetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/ermijeremy/myLeetcode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ermijeremy/myLeetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/ermijeremy/myLeetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ermijeremy/myLeetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -693,11 +695,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Doubly-Linked List
