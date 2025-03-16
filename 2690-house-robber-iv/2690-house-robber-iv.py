@@ -1,25 +1,32 @@
 class Solution:
-    def minCapability(self, nums, k):
-        # Store the maximum nums value in maxReward.
-        min_reward, max_reward = 1, max(nums)
-        total_houses = len(nums)
-
-        # Use binary search to find the minimum reward possible.
-        while min_reward < max_reward:
-            mid_reward = (min_reward + max_reward) // 2
-            possible_thefts = 0
-
-            index = 0
-            while index < total_houses:
-                if nums[index] <= mid_reward:
-                    possible_thefts += 1
-                    index += 2  # Skip the next house to maintain the non-adjacent condition
+    def minCapability(self, nums: List[int], k: int) -> int:
+        
+        # using this helper function i check if the given middle value can be a possible answer
+        # i am gonna check that by counting the numbers of non adjecent houses that have money less than or equal to the given middle value, ( because the given middle value could possibly be the answer if all other non adjecent houses have less than or equal to the middle value)
+        def valid(cap):
+            count = 0
+            i = 0
+            while i < len(nums):
+                if nums[i]<=cap:
+                    i += 2      # increasing the pointer by to inorder to get the next non adjecent house
+                    count += 1
                 else:
-                    index += 1
+                    i += 1
+            return count>=k
 
-            if possible_thefts >= k:
-                max_reward = mid_reward
+        # this solution is a pure binary search but the variant is we are looking for a specific targer, rather we are looking for a range value
+        # this range is where we get and minimize our capability
+
+        left, right = min(nums), max(nums)
+        ans = 0
+
+        while left <= right:
+            mid = (left+right)//2
+
+            if valid(mid):
+                right = mid - 1
+                ans = mid
             else:
-                min_reward = mid_reward + 1
+                left = mid + 1
+        return ans
 
-        return min_reward
