@@ -734,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Doubly-Linked List
@@ -765,4 +767,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ermijeremy/myLeetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
