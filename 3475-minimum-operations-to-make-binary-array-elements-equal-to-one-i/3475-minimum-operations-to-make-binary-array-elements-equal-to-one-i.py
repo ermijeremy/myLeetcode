@@ -3,10 +3,7 @@ class Solution:
         
         ans = i = 0
         while i<len(nums)-2:
-            if nums[i]==1:
-                i += 1
-                continue
-            else:
+            if nums[i]==0:
                 for j in range(i,i+3):
                     nums[j] ^= 1
                 ans += 1
