@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ermijeremy/myLeetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ermijeremy/myLeetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/ermijeremy/myLeetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ermijeremy/myLeetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ermijeremy/myLeetcode/tree/master/0739-daily-temperatures) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0886-score-of-parentheses](https://github.com/ermijeremy/myLeetcode/tree/master/0886-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/ermijeremy/myLeetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1720-crawler-log-folder](https://github.com/ermijeremy/myLeetcode/tree/master/1720-crawler-log-folder) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/ermijeremy/myLeetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
