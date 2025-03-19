@@ -8,7 +8,7 @@ class Solution:
                     nums[j] ^= 1
                 ans += 1
             i += 1
-        if len(set(nums))==1:
+        if (nums[-1] and nums[-2])==1:
             return ans
         else:
             return -1
