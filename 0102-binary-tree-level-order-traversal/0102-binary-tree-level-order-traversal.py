@@ -1,4 +1,4 @@
-# Definition for a binary tree node.
+# Definition for a binary tree root.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
@@ -7,23 +7,15 @@
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         ans = []
-
-        temp = deque()
-        temp.append(root)
-
-        while temp:
-            l = len(temp)
-
-            temp1 = []
-
-            for i in range(l):
-                n = temp.popleft()
-                
-                if n:
-                    temp1.append(n.val)
-                    temp.append(n.left)
-                    temp.append(n.right)
-                
-            if temp1:
-                ans.append(temp1)
+        
+        def recur(root, level):
+            if not root:
+                return
+            if level == len(ans):
+                ans.append([])
+            ans[level].append(root.val)
+            recur(root.left, level + 1)
+            recur(root.right, level + 1)
+        
+        recur(root, 0)
         return ans
