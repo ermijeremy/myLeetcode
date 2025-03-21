@@ -6,18 +6,24 @@
 #         self.right = right
 class Solution:
     def largestValues(self, root: Optional[TreeNode]) -> List[int]:
-        ans =  []
-        temp = []
-        def bfs(root,level):
-            if not root:
-                return
-            if len(temp)==level:
-                temp.append([])
-            temp[level].append(root.val)
-            bfs(root.left,level+1)
-            bfs(root.right,level+1)
-        bfs(root,0)
+        ans = []
 
-        for i in temp:
-            ans.append(max(i))
+        temp = deque()
+        temp.append(root)
+
+        while temp:
+            l = len(temp)
+
+            temp1 = []
+
+            for i in range(l):
+                n = temp.popleft()
+                
+                if n:
+                    temp1.append(n.val)
+                    temp.append(n.left)
+                    temp.append(n.right)
+                
+            if temp1:
+                ans.append(max(temp1))
         return ans
