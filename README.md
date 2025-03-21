@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ermijeremy/myLeetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ermijeremy/myLeetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ermijeremy/myLeetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ermijeremy/myLeetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -809,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ermijeremy/myLeetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ermijeremy/myLeetcode/tree/master/0784-insert-into-a-binary-search-tree) |
