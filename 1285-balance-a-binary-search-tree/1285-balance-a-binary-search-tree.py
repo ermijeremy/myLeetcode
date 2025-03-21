@@ -10,12 +10,10 @@ class Solution:
 
         def recur(root):
             if root:
-                ans.append(root.val)
                 recur(root.left)
+                ans.append(root.val)
                 recur(root.right)
         recur(root)
-        
-        ans.sort()
 
         def build(arr):
             if not arr:
