@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ermijeremy/myLeetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ermijeremy/myLeetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/ermijeremy/myLeetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ermijeremy/myLeetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/ermijeremy/myLeetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ermijeremy/myLeetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ermijeremy/myLeetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ermijeremy/myLeetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ermijeremy/myLeetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/ermijeremy/myLeetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/ermijeremy/myLeetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ermijeremy/myLeetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ermijeremy/myLeetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/ermijeremy/myLeetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ermijeremy/myLeetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
 |  |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/ermijeremy/myLeetcode/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/ermijeremy/myLeetcode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/ermijeremy/myLeetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Randomized
 |  |
 | ------- |
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/ermijeremy/myLeetcode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/ermijeremy/myLeetcode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
