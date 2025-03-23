@@ -719,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/ermijeremy/myLeetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ermijeremy/myLeetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ermijeremy/myLeetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ermijeremy/myLeetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
 | ------- |
@@ -850,10 +851,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ermijeremy/myLeetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ermijeremy/myLeetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/ermijeremy/myLeetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ermijeremy/myLeetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ermijeremy/myLeetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ermijeremy/myLeetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
