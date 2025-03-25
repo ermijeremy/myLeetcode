@@ -1,11 +1,27 @@
 class Solution:
     def punishmentNumber(self, n: int) -> int:
-        li = [1, 9, 10, 36, 45, 55, 82, 91, 99, 100, 235, 297, 369, 370, 379, 414, 657, 675, 703, 756, 792, 909, 918, 945, 964, 990, 991, 999, 1000]
-        i = 0
         ans = 0
+        self.t = []
+        self.check = False
 
-        while i < len(li) and li[i] <= n:
-            ans += li[i]**2
-            i += 1
-        
+        def backtrack(idx,num,l,ta):
+            if self.t and str(num[l-1]) in str(self.t[-1]) and sum(self.t)==ta:
+                self.check = True
+            if sum(self.t)>ta:
+                return
+
+            for i in range(idx,l):
+                if self.check:
+                    return
+                self.t.append(int(num[idx:i+1]))
+                backtrack(i+1,num,l,ta)
+                self.t.pop()
+        # # backtrack(0,'1296',4,37)
+        for i in range(1,n+1):
+            cur = str(i*i)
+            backtrack(0,cur,len(cur),i)
+            if self.check:
+                self.check = False
+                print(i)
+                ans += i*i
         return ans
