@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ermijeremy/myLeetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ermijeremy/myLeetcode/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/ermijeremy/myLeetcode/tree/master/0777-toeplitz-matrix) |
+| [0792-binary-search](https://github.com/ermijeremy/myLeetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/ermijeremy/myLeetcode/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/ermijeremy/myLeetcode/tree/master/0829-subdomain-visit-count) |
 | [0859-design-circular-deque](https://github.com/ermijeremy/myLeetcode/tree/master/0859-design-circular-deque) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ermijeremy/myLeetcode/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/ermijeremy/myLeetcode/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/0633-sum-of-square-numbers) |
+| [0792-binary-search](https://github.com/ermijeremy/myLeetcode/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ermijeremy/myLeetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ermijeremy/myLeetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ermijeremy/myLeetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
