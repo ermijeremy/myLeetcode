@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ermijeremy/myLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ermijeremy/myLeetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ermijeremy/myLeetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/ermijeremy/myLeetcode/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/ermijeremy/myLeetcode/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/ermijeremy/myLeetcode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/ermijeremy/myLeetcode/tree/master/0792-binary-search) |
@@ -876,4 +877,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ermijeremy/myLeetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ermijeremy/myLeetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
