@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/ermijeremy/myLeetcode/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/ermijeremy/myLeetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ermijeremy/myLeetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/ermijeremy/myLeetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ermijeremy/myLeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ermijeremy/myLeetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ermijeremy/myLeetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/ermijeremy/myLeetcode/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/ermijeremy/myLeetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ermijeremy/myLeetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/ermijeremy/myLeetcode/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/ermijeremy/myLeetcode/tree/master/0768-partition-labels) |
