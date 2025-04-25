@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-sum-of-even-numbers-after-queries](https://github.com/ermijeremy/myLeetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/ermijeremy/myLeetcode/tree/master/1028-interval-list-intersections) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ermijeremy/myLeetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1039-find-the-town-judge](https://github.com/ermijeremy/myLeetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ermijeremy/myLeetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/ermijeremy/myLeetcode/tree/master/1095-two-city-scheduling) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ermijeremy/myLeetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/ermijeremy/myLeetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ermijeremy/myLeetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ermijeremy/myLeetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1039-find-the-town-judge](https://github.com/ermijeremy/myLeetcode/tree/master/1039-find-the-town-judge) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ermijeremy/myLeetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/ermijeremy/myLeetcode/tree/master/1160-letter-tile-possibilities) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ermijeremy/myLeetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/ermijeremy/myLeetcode/tree/master/1039-find-the-town-judge) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ermijeremy/myLeetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ermijeremy/myLeetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/ermijeremy/myLeetcode/tree/master/2793-count-the-number-of-complete-components) |
