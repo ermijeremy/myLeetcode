@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ermijeremy/myLeetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ermijeremy/myLeetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/ermijeremy/myLeetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ermijeremy/myLeetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ermijeremy/myLeetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ermijeremy/myLeetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ermijeremy/myLeetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ermijeremy/myLeetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ermijeremy/myLeetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/ermijeremy/myLeetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ermijeremy/myLeetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ermijeremy/myLeetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ermijeremy/myLeetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ermijeremy/myLeetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2465-shifting-letters-ii](https://github.com/ermijeremy/myLeetcode/tree/master/2465-shifting-letters-ii) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ermijeremy/myLeetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2915-count-of-interesting-subarrays](https://github.com/ermijeremy/myLeetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ermijeremy/myLeetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ermijeremy/myLeetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
