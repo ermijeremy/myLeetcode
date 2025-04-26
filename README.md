@@ -968,4 +968,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ermijeremy/myLeetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/ermijeremy/myLeetcode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
